@@ -3,7 +3,7 @@
 	"changelog": [
 		"@changesets/changelog-github",
 		{
-			"repo": "astro-integration-cloudflare-pages-headers/martinsilha"
+			"repo": "martinsilha/astro-integration-cloudflare-pages-headers"
 		}
 	],
 	"commit": false,
